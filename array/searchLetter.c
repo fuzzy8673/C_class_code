@@ -16,7 +16,7 @@ int search(char arr[],int n, char target)
         if (arr[i] == target)
         {
             return i;
-            break;  
+            // break;  
         }
     }
     return -1;
@@ -24,9 +24,12 @@ int search(char arr[],int n, char target)
 int main()
 {
     char arr[] = {'S','O','U','M','Y','A'};
-    char target = 'J';
+    char target1 = 'S';
+    char target2 = 'J';
     int n = sizeof(arr) / sizeof(arr[0]);
-    int ans = search(arr,n, target);
-    printf("The index of %c is %d", target, ans);
+    int ans1 = search(arr,n, target1);
+    int ans2 = search(arr,n, target2);
+    printf("The index of %c is %d", target1, ans1);
+    printf("The index of %c is %d", target2, ans2);
     return 0;
 }

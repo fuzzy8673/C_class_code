@@ -29,5 +29,16 @@ int main()
     /* p is now dangling      */
     p = NULL; /* fix */
 
+    // 4. void pointer
+    int x = 10;
+    float y = 2.5;
+    void *g;
+
+    g = &x;
+    printf("%d\n", *(int *)g);
+
+    g = &y;
+    printf("%.1f\n", *(float *)g);
+
     return 0;
 }
