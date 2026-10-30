@@ -1,0 +1,16 @@
+//1. https://www.booking.com/hotel/in/3-bhk-peacefull-family-apartments-in-shimla-pine-tree-view.en-gb.html?aid=2405329&label=brave_brand_country_in_a96b3c9c-c447-4b8f-88a7-1158a4d27e50_cb9eb0&sid=897d2945a7537400123eaf180df39be2&all_sr_blocks=1444261112_434259100_2_0_0&checkin=2026-10-10&checkout=2026-10-11&dest_id=-2111367&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=6&highlighted_blocks=1444261112_434259100_2_0_0&hpos=6&matching_block_id=1444261112_434259100_2_0_0&nflt=price%3DINR-min-2500-1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=1444261112_434259100_2_0_0__127800&srepoch=1791178065&srpvid=7705257c64660475&type=total&ucfs=1&#tab-main
+
+
+2.https://www.booking.com/hotel/in/new-maya-home-stay.en-gb.html?aid=2405329&label=brave_brand_country_in_a96b3c9c-c447-4b8f-88a7-1158a4d27e50_cb9eb0&sid=897d2945a7537400123eaf180df39be2&all_sr_blocks=1392618401_412913537_2_2_0&checkin=2026-10-10&checkout=2026-10-11&dest_id=-2111367&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=2&highlighted_blocks=1392618401_412913537_2_2_0&hpos=2&matching_block_id=1392618401_412913537_2_2_0&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=1392618401_412913537_2_2_0__126000&srepoch=1791177767&srpvid=7705257c64660475&type=total&ucfs=1&
+
+
+
+https://www.booking.com/hotel/in/victory-and-restaurant-near-mall-road.en-gb.html?aid=2405329&label=brave_brand_country_in_a96b3c9c-c447-4b8f-88a7-1158a4d27e50_cb9eb0&sid=897d2945a7537400123eaf180df39be2&all_sr_blocks=1321927101_442361184_2_10_0_769178&checkin=2026-10-10&checkout=2026-10-11&dest_id=-2111367&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=1321927101_442361184_2_10_0_769178&hpos=1&matching_block_id=1321927101_442361184_2_10_0_769178&nflt=price%3DINR-min-2500-1%3Bdistance%3D1000&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=1321927101_442361184_2_10_0_769178_250000&srepoch=1791178802&srpvid=7705257c64660475&type=total&ucfs=1&
+
+
+
+https://www.booking.com/hotel/in/sheel.en-gb.html?aid=2405329&label=brave_brand_country_in_a96b3c9c-c447-4b8f-88a7-1158a4d27e50_cb9eb0&sid=897d2945a7537400123eaf180df39be2&all_sr_blocks=205096705_445223958_2_0_0&checkin=2026-10-10&checkout=2026-10-11&dest_id=-2111367&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=4&highlighted_blocks=205096705_445223958_2_0_0&hpos=4&matching_block_id=205096705_445223958_2_0_0&nflt=price%3DINR-min-2500-1%3Bdistance%3D1000&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=205096705_445223958_2_0_0__232724&srepoch=1791190043&srpvid=477c3c8aa413170b&type=total&ucfs=1&
+
+
+
+https://www.airbnb.co.in/rooms/1609862961384182699?adults=3&check_in=2026-10-10&check_out=2026-10-11&search_mode=regular_search&source_impression_id=p3_669db66d-dcf6-4b3b-a312-1e87c2822767_35cbe683-03a7-4ef3-a3e4-142ed6314e89_0_1609862961384182699_1&previous_page_section_name=1000&federated_search_id=669db66d-dcf6-4b3b-a312-1e87c2822767
