@@ -7,6 +7,9 @@ int main()
     printf("%d\n", x);  // 10
     printf("%d\n", p);  // stores the address of x
     printf("%d\n", *p); // stores the value of x
+    
+    *p=250;
+    printf("%d\n", x); // stores the value of x
 
     // types of pointers
     // 1. wild
