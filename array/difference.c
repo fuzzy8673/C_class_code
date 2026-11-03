@@ -8,7 +8,9 @@
 // 5-1 = 4
 #include<stdio.h>
 int getDifference(int arr[],int n){
-    int max = arr[0];
+    // write you code here
+    int max=arr[0];
+    int min=arr[0];
     int i;
     for (i = 1; i < n; i++)
     {
@@ -16,17 +18,10 @@ int getDifference(int arr[],int n){
         {
             max=arr[i];
         }
-        
-    }
-    int min=arr[0];
-    int j;
-    for (j = 1; j < n; j++)
-    {
-        if (arr[j]<min)
+        if (arr[i]<min)
         {
-            min=arr[j];
+            min=arr[i];
         }
-        
     }
     return max-min;
 }

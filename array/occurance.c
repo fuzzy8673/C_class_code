@@ -1,7 +1,7 @@
 // you are given an array and a target, you have to count the number how many times the target is appearing in the array
 //Sample Input:
 //7
-// 5 12 5 8 5 3 12
+// 5 12 5 8 5 3 12  
 // 5
 // Sample Output:
 // 3
@@ -14,8 +14,6 @@ int findOccurance(int arr[],int n,int target){
     {
         if (arr[i]==target)
         {
-            // return i;
-            // break;
             count++;
         }
     }
