@@ -12,7 +12,6 @@ int countDivisible(int arr[],int n,int key){
         {
             count++;
         }
-       
     }
      return count;
     
