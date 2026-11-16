@@ -16,6 +16,17 @@
 
 int main(){
 
-    int* ptr;
-    ptr=
+     int n;
+    printf("Enter the array size you want");
+    scanf("%d",&n);
+    int *p = malloc(n*sizeof(int));
+    printf("The element is %d",p[n+100]);
+   
+    // int arr[10];
+    // some
+    // lines 
+    // of 
+    // code
+    // arr=arr[20];
+    // return 0;
 }
