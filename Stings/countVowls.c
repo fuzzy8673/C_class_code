@@ -13,8 +13,7 @@ int countVowel(char str[]){
         {
             count++;
         }
-        i++;
-        
+        i++; 
     }
     
     return count;
