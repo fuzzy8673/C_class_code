@@ -8,14 +8,17 @@
 
     
 
+
+
 struct Employee
 {
-    int id;
+    int id;  
     char name[50];
     float salary;
 };
 
 int main(){
+    int a=7;
     struct Employee e1;  // e1 is the variable of employee data type
     e1.id=8;
     strcpy(e1.name, "soumyadip");  // another way of initialize the members of your user defined data type
