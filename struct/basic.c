@@ -20,6 +20,7 @@ struct employee
 
 int main(){
     struct employee e1;    // similar to  - int a
+    
     e1.id=213;
     strcpy(e1.name,"alex");
     strcpy(e1.designation,"manager");
