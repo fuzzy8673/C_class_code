@@ -40,16 +40,23 @@ int main()
     //        s2.score.c,
     //        s2.score.m);
 
-    struct student class[3] = {
-        {101, "Aarav", {12.3, 2.3, 3.6}},
-        {102, "Diya", {112.3, 23.3, 31.6}},
-        {103, "Kabir", {102.3, 256.3, 324.6}}};
+    // struct student class[3] = {
+    //     {101, "Aarav", {12.3, 2.3, 3.6}},
+    //     {102, "Diya", {112.3, 23.3, 31.6}},
+    // {103, "Kabir", {102.3, 256.3, 324.6}}};
+    struct student class[3];
 
-        int i;
-    for ( i= 0; i < 3; i++)
+    // taking input
+    int j;
+    for (j = 0; j < 3; j++)
     {
-        printf("ID: %d | Name: %s | Marks of p %.2f Marks of c %.2f Marks of m %.2f\n",
-               class[i].id, class[i].name, class[i].score.p,class[i].score.c,class[i].score.m);
+        scanf("%d %s %f %f %f", &class[j].id, class[j].name, &class[j].score.p, &class[j].score.c, &class[j].score.m);
+    }
+    int i;
+    for (i = 0; i < 3; i++)
+    {
+        printf("ID: %d | Name: %s | Marks of p %.2f | Marks of c %.2f | Marks of m %.2f\n",
+               class[i].id, class[i].name, class[i].score.p, class[i].score.c, class[i].score.m);
     }
 
     return 0;
